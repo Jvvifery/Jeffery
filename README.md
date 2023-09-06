@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeffery</h1>
-<h3 align="center">A passionate web developer from Nigeria</h3>
+<h3 align="center">A passionate APP and Web developer from Nigeria</h3>
 
 
 

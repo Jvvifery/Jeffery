@@ -22,9 +22,9 @@
 
 - 👯 I’m looking to collaborate on **Web development projects**
 
-- 👨‍💻 All of my projects are available at [Hastyfleet.com](Hastyfleet.com)
+- 👨‍💻 All of my projects are available at instagram via the handle unmatched_gems
 
-- 💬 Ask me about **Wordpress,Web developing,PHP**
+- 💬 Ask me about **Wordpress, Javascript, HTML,**
 
 - 📫 How to reach me **Oseghalejeffery4@gmail.com**
 
